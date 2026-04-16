@@ -1,7 +1,7 @@
 # Fala, eu sou o Gabriel Oliveira! 👋
 
 Atualmente cursando **Engenharia de Software na PUC Minas** 🎓. 
-Tô viciado em **Python** e transformando café em código (e uns erros de sintaxe de vez em quando, que faz parte do show). 
+Tô viciado em **Python** e transformando café em código. 
 
 ## 🚀 O que eu tô aprontando:
 - 🐍 Focado em dominar o **Python** do zero ao avançado.
@@ -12,7 +12,7 @@ Tô viciado em **Python** e transformando café em código (e uns erros de sinta
 Tô na busca do meu primeiro **estágio na área**. Quero colocar a mão na massa, aprender com quem é brabo e contribuir com código real. Se tiver desafio, eu tô dentro!
 
 ## 🛠️ No meu kit de ferramentas tem:
-- **Linguagem:** Python (meu xodó atual).
+- **Linguagem:** Python.
 - **Versão:** Git e GitHub (pra manter tudo organizado).
 - **Agilidade:** Estudando os conceitos de Scrum pra não ficar perdido no fluxo.
 
